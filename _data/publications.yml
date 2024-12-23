@@ -1,12 +1,11 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference: Journal of Machine Learning Research
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    notes: Early Accept
+  - title: Randomized spectral co-clustering for large-scale directed networks
+    authors: <strong>Xiao Guo</strong>, Yixuan Qiu, Hai Zhang, Xiangyu Chang
+    conference: Journal of Machine Learning Research, 2023
+    pdf: https://www.jmlr.org/papers/v24/20-572.html
+    code: https://github.com/XiaoGuo-stat/Rclust
+  
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
