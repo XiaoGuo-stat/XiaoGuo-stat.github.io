@@ -1,14 +1,6 @@
 main:
 
- - title: Fedpower: privacy-preserving distributed eigenspace estimation
-    authors: <strong>Xiao Guo</strong>, Xiang Li, Xiangyu Chang, Shusen Wang, Zhihua Zhang
-    conference: Machine Learning, 2024+
-    pdf: https://link.springer.com/article/10.1007/s10994-024-06620-0
-  
-  - title: On the efficacy of higher-order spectral clustering under weighted stochastic block models
-    authors: <strong>Xiao Guo</strong>, Hai Zhang, Xiangyu Chang
-    conference: Computational Statistics and Data Analysis, 2024
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834
+ 
     
  - title: Randomized spectral co-clustering for large-scale directed networks
     authors: <strong>Xiao Guo</strong>, Yixuan Qiu, Hai Zhang, Xiangyu Chang
@@ -16,11 +8,6 @@ main:
     pdf: https://www.jmlr.org/papers/v24/20-572.html
     code: https://github.com/XiaoGuo-stat/Rclust
 
- - title: Randomized spectral clustering in large-scale stochastic block models
-    authors: Hai Zhang, <strong>Xiao Guo</strong>, Xiangyu Chang
-    conference: Journal of Computational and Graphical Statistics, 2022
-    pdf: https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2034636
-    code: https://github.com/XiaoGuo-stat/RandClust
-  
+
 
   
