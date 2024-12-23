@@ -5,10 +5,7 @@ main:
     conference: Computational Statistics and Data Analysis, 2024
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834
 
- - title: On the efficacy of higher-order spectral clustering under weighted stochastic block models
-    authors: <strong>Xiao Guo</strong>, Hai Zhang, Xiangyu Chang
-    conference: Computational Statistics and Data Analysis, 2024
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834
+ 
     
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
