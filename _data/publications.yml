@@ -1,9 +1,9 @@
 main:
  
-  - title: On the efficacy of higher-order spectral clustering under weighted stochastic block models
+  - title: Fedpower
     authors: <strong>Xiao Guo</strong>, Hai Zhang, Xiangyu Chang
-    conference: Computational Statistics and Data Analysis, 2024
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834
+    conference: Machine Learning, 2024
+    pdf: https://link.springer.com/article/10.1007/s10994-024-06620-0
 
     
   - title: On the efficacy of higher-order spectral clustering under weighted stochastic block models
