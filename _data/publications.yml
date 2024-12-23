@@ -1,6 +1,6 @@
 main:
  
-  - title: Fedpower privacy-preserving distributed eigenspace estimation
+  - title: "Fedpower: privacy-preserving distributed eigenspace estimation"
     authors: <strong>Xiao Guo</strong>, Hai Zhang, Xiangyu Chang, Shusen Wang, Zhihua Zhang
     conference: Machine Learning, 2024+
     pdf: https://link.springer.com/article/10.1007/s10994-024-06620-0
