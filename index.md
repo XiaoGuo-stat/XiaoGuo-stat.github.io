@@ -8,8 +8,7 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Network Analysis:** community detection, image generation, video captioning
-- **Machine Learning:** distributed learning,  transfer learning
+- **Network analysis, Privacy preserving data analysis, Federated learning**  
 
 ## News
 
