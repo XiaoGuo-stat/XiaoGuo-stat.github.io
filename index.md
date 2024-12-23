@@ -8,8 +8,8 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Network Analysis:** community detection, image generation, video captioning
+- **Machine Learning:** distributed learning,  transfer learning
 
 ## News
 
