@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Lecturer at the School of Mathematics, Northwest University, China. I got my Ph.D. in Statistics at School of Mathematics, Nothwest Unviersity. I spent a year as a visiting student in Department of Statistics at Columbia University. 
+I am currently a Lecturer at the School of Mathematics, Northwest University, China. I got my Ph.D. in Statistics at School of Mathematics, Nothwest Unviersity. During my Ph.D. studies, I spent a year as a visiting student in Department of Statistics at Columbia University. 
 
 
 ## Research Interests
