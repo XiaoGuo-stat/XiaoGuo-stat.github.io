@@ -1,5 +1,11 @@
 main:
 
+ - title: Fedpower: privacy-preserving distributed eigenspace estimation
+    authors: <strong>Xiao Guo</strong>, Xiang Li, Xiangyu Chang, Shusen Wang, Zhihua Zhang
+    conference: Machine Learning, 2024+
+    pdf: https://link.springer.com/article/10.1007/s10994-024-06620-0
+  
+  
   - title: Randomized spectral co-clustering for large-scale directed networks
     authors: <strong>Xiao Guo</strong>, Yixuan Qiu, Hai Zhang, Xiangyu Chang
     conference: Journal of Machine Learning Research, 2023
