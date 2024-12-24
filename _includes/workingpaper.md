@@ -1,6 +1,6 @@
 ## Working paper
 
-<ul style="margin:1px 0 5px;">
+<ul style="margin:8px 0 5px;">
    <li><a href="https://arxiv.org/abs/2306.15709"><autocolor>Privacy-Preserving Community Detection for Locally Distributed Multiple Networks, Xiao Guo, Xiang Li, Xiangyu Chang, Zhihua Zhang
 </autocolor></a></li>
   <li><a href="https://arxiv.org/abs/2406.11152"><autocolor>Limit results for estimation of connectivity matrix in multi-layer stochastic block models, Wenqing Su, Xiao Guo, Ying Yang
