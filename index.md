@@ -9,7 +9,7 @@ I am currently a Lecturer at the School of Mathematics, Northwest University, Ch
 
 ## Research Interests
 
- **Network analysis, Privacy preserving data analysis, Federated learning**  
+ **Network analysis, Privacy preserving data analysis, Federated learning, Graphical model**  
 
 
 
