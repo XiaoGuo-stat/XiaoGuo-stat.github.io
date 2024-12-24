@@ -1,3 +1,10 @@
+<style>
+    .publications ol.bibliography li {
+        margin-bottom: 10px; /* 调整为需要的间距 */
+        padding-bottom: 0; /* 去除多余的内部间距 */
+    }
+</style>
+
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
