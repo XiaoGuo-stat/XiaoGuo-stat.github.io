@@ -29,6 +29,17 @@ main:
     pdf: https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2034636
     code: https://github.com/XiaoGuo-stat/RClust
 
+  - title: Sparse directed acyclic graphs incorporating the covariates
+    authors: <strong>Xiao Guo</strong>, Hai Zhang
+    conference: Statistical Papers, 2020
+    pdf: https://link.springer.com/article/10.1007/s00362-018-1027-8
+
+  - title: Structure learning of sparse directed acyclic graphs incorporating the scale-free property
+    authors: <strong>Xiao Guo</strong>, Hai Zhang, Yao Wang, Jianglun Wu
+    conference: Computational Statistics, 2019
+    pdf: https://link.springer.com/article/10.1007/s00180-018-0841-8
+
+    
 
     
   
