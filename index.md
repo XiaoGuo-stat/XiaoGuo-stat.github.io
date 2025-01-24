@@ -22,6 +22,8 @@ I am currently a Lecturer at the School of Mathematics, Northwest University, Ch
 
 {% include_relative _includes/Teaching.md %}
 
+{% include_relative _includes/software.md %}
+
 {% include_relative _includes/workingpaper.md %}
 
-{% include_relative _includes/software.md %}
+
