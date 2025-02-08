@@ -3,6 +3,7 @@ main:
     authors: Shuai Liu, Xiao Yan, <strong>Xiao Guo</strong>, Shun Qi, Huaning Wang, Xiangyu Chang
     conference: Journal of Biomedical Informatics, 2025
     pdf: https://www.sciencedirect.com/science/article/pii/S1532046425000139
+    code: https://github.com/dajlsdf/NOTEARS_PFL
 
   - title: "Fedpower: privacy-preserving distributed eigenspace estimation"
     authors: <strong>Xiao Guo</strong>, Xiang Li, Xiangyu Chang, Shusen Wang, Zhihua Zhang
