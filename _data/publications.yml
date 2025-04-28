@@ -1,4 +1,8 @@
 main:
+  - title: * Corresponding or joint corresponding authors, # Co-first authors or al
+
+
+  
   - title: "Federated Bayesian network learning from multi-site data"
     authors: Shuai Liu, Xiao Yan, <strong>Xiao Guo*</strong>, Shun Qi, Huaning Wang, Xiangyu Chang
     conference: Journal of Biomedical Informatics, 2025
