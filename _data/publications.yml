@@ -1,13 +1,13 @@
 main:
 
   - title: "Federated Bayesian network learning from multi-site data"
-    authors: Shuai Liu, Xiao Yan, <strong>Xiao Guo*</strong>, Shun Qi, Huaning Wang, Xiangyu Chang
+    authors: Shuai Liu, Xiao Yan, <strong>Xiao Guo</strong>, Shun Qi, Huaning Wang, Xiangyu Chang
     conference: Journal of Biomedical Informatics, 2025
     pdf: https://www.sciencedirect.com/science/article/pii/S1532046425000139
     code: https://github.com/dajlsdf/NOTEARS_PFL
 
   - title: "Fedpower: privacy-preserving distributed eigenspace estimation"
-    authors: <strong>Xiao Guo#</strong>, Xiang Li, Xiangyu Chang, Shusen Wang, Zhihua Zhang
+    authors: <strong>Xiao Guo</strong>, Xiang Li, Xiangyu Chang, Shusen Wang, Zhihua Zhang
     conference: Machine Learning, 2024
     pdf: https://link.springer.com/article/10.1007/s10994-024-06620-0
 
@@ -18,7 +18,7 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834
 
   - title: Spectral co-clustering in multi-layer directed networks
-    authors: Wenqing Su, <strong>Xiao Guo*</strong>, Xiangyu Chang, Ying Yang
+    authors: Wenqing Su, <strong>Xiao Guo</strong>, Xiangyu Chang, Ying Yang
     conference: Computational Statistics and Data Analysis, 2024
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947324000719
     code: https://github.com/WenqingSu/DSoG
