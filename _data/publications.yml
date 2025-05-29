@@ -17,11 +17,6 @@ main:
     conference: Computational Statistics and Data Analysis, 2024
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834
 
-  - title: Spectral co-clustering in multi-layer directed networks
-    authors: Wenqing Su, <strong>Xiao Guo</strong>, Xiangyu Chang, Ying Yang
-    conference: Computational Statistics and Data Analysis, 2024
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167947324000719
-    code: https://github.com/WenqingSu/DSoG
 
   - title: Randomized spectral co-clustering for large-scale directed networks
     authors: <strong>Xiao Guo</strong>, Yixuan Qiu, Hai Zhang, Xiangyu Chang
