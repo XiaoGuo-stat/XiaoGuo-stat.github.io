@@ -1,5 +1,11 @@
 main:
 
+  - title: "Limit results for estimation of connectivity matrix in multi-layer stochastic block models"
+    authors: Wenqing Su, <strong>Xiao Guo</strong>, Ying Yang
+    conference: Journal of Statistical Planning and Inference, 2025
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0378375825000515
+
+
   - title: "Federated Bayesian network learning from multi-site data"
     authors: Shuai Liu, Xiao Yan, <strong>Xiao Guo</strong>, Shun Qi, Huaning Wang, Xiangyu Chang
     conference: Journal of Biomedical Informatics, 2025
