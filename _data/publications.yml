@@ -1,5 +1,9 @@
 main:
 
+  - title: "Stochastic block model-aware topological neural networks for graph link prediction"
+    authors: Yuzhou Chen, <strong>Xiao Guo</strong>, Shujie Ma
+    conference: Transactions on Machine Learning Research, 2025
+  
   - title: "Limit results for estimation of connectivity matrix in multi-layer stochastic block models"
     authors: Wenqing Su, <strong>Xiao Guo</strong>, Ying Yang
     conference: Journal of Statistical Planning and Inference, 2025
