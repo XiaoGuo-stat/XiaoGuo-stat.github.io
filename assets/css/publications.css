@@ -3,7 +3,7 @@
     padding: 0.25em 0.4em;
     font-size: 75%;
     font-weight: 700;
-    line-height: 0.7;
+    line-height: 1;
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
@@ -30,15 +30,15 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
-.publications h2 { margin-bottom: 0rem; }
+.publications h2 { margin-bottom: 1rem; }
 
 .publications h2 span { font-size: 1.5rem; }
 
-.publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 0rem; margin-bottom: 0rem; text-align: right; }
+.publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
 
 .publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
 
-.publications ol.bibliography li { min-height: 20px; margin-bottom: 0.02rem; }
+.publications ol.bibliography li { min-height: 50px; margin-bottom: 0.02rem; }
 
 .publications ol.bibliography li .abbr { height: 0.5rem; margin-bottom: 0.02rem; }
 
