@@ -1,6 +1,6 @@
 <style>
     .publications ol.bibliography li {
-        margin-bottom: 3px; /* 调整为需要的间距 */
+        margin-bottom: 4px; /* 调整为需要的间距 */
         padding-bottom: 0; /* 去除多余的内部间距 */
     }
 </style>
