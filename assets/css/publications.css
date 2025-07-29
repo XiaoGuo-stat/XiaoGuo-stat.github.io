@@ -89,4 +89,27 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li p {
   margin: 0.1rem 0;
 }
+.publications ol.bibliography li {
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
+  min-height: auto;
+}
+
+.publications ol.bibliography li p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
+}
+
+.publications ol.bibliography li .abbr {
+  display: none;
+}
+
+.publications ol.bibliography {
+  margin: 0;
+  padding: 0;
+  row-gap: 0;
+}
+
 
