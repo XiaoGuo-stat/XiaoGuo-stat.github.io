@@ -22,6 +22,10 @@ main:
     authors: Shuai Liu, Xiao Yan, <strong>Xiao Guo</strong>, Shun Qi, Huaning Wang, Xiangyu Chang
     conference: Journal of Biomedical Informatics, 2025
 
+  - title: "<a href='https://www.sciencedirect.com/science/article/abs/pii/S0167947324000719' target='_blank'>Spectral co-clustering in multi-layer directed networks</a>"
+    authors: Wenqing Su, <strong>Xiao Guo</strong>, Xiangyu Chang, Ying Yang
+    conference: Computational Statistics and Data Analysis, 2024
+
   - title: "<a href='https://link.springer.com/article/10.1007/s10994-024-06620-0' target='_blank'>Fedpower: privacy-preserving distributed eigenspace estimation</a>"
     authors: <strong>Xiao Guo</strong>, Xiang Li, Xiangyu Chang, Shusen Wang, Zhihua Zhang
     conference: Machine Learning, 2024
@@ -30,12 +34,6 @@ main:
   - title: "<a href='https://www.sciencedirect.com/science/article/abs/pii/S0167947323001834' target='_blank'>On the efficacy of higher-order spectral clustering under weighted stochastic block models</a>"
     authors: <strong>Xiao Guo</strong>, Hai Zhang, Xiangyu Chang
     conference: Computational Statistics and Data Analysis, 2024
-
-       
-  - title: "<a href='https://www.sciencedirect.com/science/article/abs/pii/S0167947324000719' target='_blank'>Spectral co-clustering in multi-layer directed networks</a>"
-    authors: Wenqing Su, <strong>Xiao Guo</strong>, Xiangyu Chang, Ying Yang
-    conference: Computational Statistics and Data Analysis, 2024
-
 
   - title: "<a href='https://www.jmlr.org/papers/v24/20-572.html' target='_blank'>Randomized spectral co-clustering for large-scale directed networks</a>"
     authors: <strong>Xiao Guo</strong>, Yixuan Qiu, Hai Zhang, Xiangyu Chang
