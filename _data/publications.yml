@@ -4,6 +4,11 @@ main:
     authors: <strong>Xiao Guo</strong>, Xu Zhang, Hai Zhang
     conference: Statistica Sinica, 2025+
 
+  - title: "<a href='https://arxiv.org/abs/2501.05326' target='_blank'>Randomized spectral clustering for large-scale multi-layer networks
+</a>"
+    authors: Wenqing Su, <strong>Xiao Guo</strong>, Xiangyu Chang, Ying Yang
+    conference: Statitics and Computing, 2025+
+
   - title: "<a href='https://www.sciencedirect.com/science/article/abs/pii/S0378375825000515' target='_blank'>Limit results for estimation of connectivity matrix in multi-layer stochastic block models</a>"
     authors: Wenqing Su, <strong>Xiao Guo</strong>, Ying Yang
     conference: Journal of Statistical Planning and Inference, 2026
