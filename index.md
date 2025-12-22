@@ -15,7 +15,7 @@ During my Ph.D. and master's studies, I spent a year as a visiting student in th
 
 ## Research Interests
 
- **Network analysis, Privacy-preserving data analysis, Federated learning, Graphical models**  
+ **Network analysis, Privacy-preserving data analysis, Federated learning, High-dimensional statistics**  
 
 
 
