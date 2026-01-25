@@ -5,9 +5,9 @@ email: xiaoguo (at) nwu (dot) edu (dot) cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: Xiao Guo — Associate Professor at Northwest University. Research interests: statistics, network analysis, community detection, federated learning, differential privacy.
+keywords: Xiao Guo, Guo Xiao, Northwest University, Statistics, Network Analysis, Community Detection, Federated Learning, Differential Privacy
+canonical: https://xiaoguo-stat.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
