@@ -27,4 +27,6 @@ During my Ph.D. and master's studies, I spent a year as a visiting student in th
 
 {% include_relative _includes/workingpaper.md %}
 
+{% include_relative _includes/services.md %}
+
 
