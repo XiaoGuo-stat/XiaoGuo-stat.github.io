@@ -1,9 +1,10 @@
 main:
 
- - title: "<a href='https://arxiv.org/abs/2504.00890' target='_blank'>Privacy-preserving transfer learning for community detection using locally distributed multiple networks</a>"
-   authors: <strong>Xiao Guo</strong>, Xuming He, Xiangyu Chang, Shujie Ma
-   conference: Journal of the American Statistical Association, 2026+
-    
+
+  - title: "<a href='https://arxiv.org/abs/2504.00890' target='_blank'>Privacy-preserving transfer learning for community detection using locally distributed multiple networks</a>"
+    authors: <strong>Xiao Guo</strong>, Xuming He, Xiangyu Chang, Shujie Ma
+    conference: Journal of the American Statistical Association, 2026+
+
   - title: "<a href='https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0335_na.pdf' target='_blank'>Online-forgetting process for debiased-Lasso using summary statistics</a>"
     authors: <strong>Xiao Guo</strong>, Xu Zhang, Hai Zhang
     conference: Statistica Sinica, 2026+
